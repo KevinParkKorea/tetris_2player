@@ -19,3 +19,5 @@ public class Main{
 		compare.start();
 	}
 }
+
+//2player tetris
